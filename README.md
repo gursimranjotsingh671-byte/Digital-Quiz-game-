@@ -1,18 +1,18 @@
 # 🎯 Digital Quiz Game Using C
 
-## Project Overview
+## 📌Project Overview
 
 Digital Quiz Game is a console-based mini-project developed using the C programming language.
 
 It allows users to answer multiple-choice questions and calculates their final score based on correct answers.
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Students need an easy way to test their knowledge and improve their learning.
 
 This project provides a simple digital quiz system that automatically checks answers, calculates marks and displays the final result.
 
-## Features
+## ✨ Features
 
 - 10 multiple-choice questions.
 - Four options for each question.
@@ -23,13 +23,13 @@ This project provides a simple digital quiz system that automatically checks ans
 - Performance evaluation.
 - Final result display.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Programming Language: C
 - Compiler: GCC
 - Code Editor: Visual Studio Code
 
-## C Concepts Used
+## 📚 C Concepts Used
 
 - Variables and Data Types
 - Arrays
@@ -39,7 +39,7 @@ This project provides a simple digital quiz system that automatically checks ans
 - If-Else Statements
 - User Input and Output
 
-## How to Run
+## ▶️ How to Run
 
 1. Open the project folder in VS Code.
 2. Open the terminal.
@@ -55,7 +55,7 @@ gcc digital_quiz.c -o quiz
 .\quiz.exe
 ```
 
-## Scoring System
+## 📊 Scoring System
 
 | Score | Performance |
 |---|---|
@@ -65,7 +65,7 @@ gcc digital_quiz.c -o quiz
 
 Each correct answer carries 1 mark.
 
-## Future Improvements
+## 🚀 Future Improvements
 
 - Add different difficulty levels.
 - Add a countdown timer.
@@ -74,7 +74,7 @@ Each correct answer carries 1 mark.
 - Allow users to enter their names.
 - Store quiz results in a file.
 
-## Author
+## 👨‍💻 Author
 
 **Gursimranjot Singh**
 
